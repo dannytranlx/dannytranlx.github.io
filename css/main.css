@@ -33,6 +33,20 @@ a.twitter {
   background-position: center;
 }
 
+a.flickr {
+  background-image:url('../img/flickr.png');
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+a.linkedin {
+  background-image:url('../img/linkedin.png');
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 a.github {
   background-image:url('../img/github.png');
   background-size: 20px 20px;
