@@ -12,6 +12,11 @@ a:hover {
   color:#2a6496;
 }
 
+.img-circle {
+  height: 200px;
+  width: 200px;
+}
+
 .social {
   margin-top: 10px;
 }
