@@ -1,2 +1,4 @@
 name: Danny Tran
 markdown: redcarpet
+
+exclude: ['README.md', 'CNAME', 'vendor', 'Gemfile', 'Gemfile.lock']
