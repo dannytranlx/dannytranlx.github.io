@@ -1,41 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>{{ page.title }}</title>
-      <meta name="viewport" content="width=device-width">
-      <link rel="shortcut icon" href="/img/dt.png" />
-      <link rel="stylesheet" href="/css/bootstrap.min.css">
-      <link rel="stylesheet" href="/css/main.css">
-      <link href='http://fonts.googleapis.com/css?family=Lato:300|Open+Sans:300' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-      <div class="container">
-          <div class="row header">
-              <div class="col-md-3 text-center">
-                  <a href="/"><img class="img-circle" src="/img/dt.png" alt="Danny Tran" title="That was me at Computer Science Games 2013. Photo credit to Alexandre Mathieu."/></a>
-                  <h1 class="title">Danny Tran</h1>
-                  <span class="small">Web application developer</span>
-                  <ul class="list-unstyled list-inline social">
-                      <li><a class="github" href="https://github.com/dannytranlx">GitHub</a></li>
-                      <li><a class="twitter" href="https://twitter.com/dannytranlx">Twitter</a></li>
-                      <li><a class="facebook" href="https://facebook.com/dannytranlx">Facebook</a></li>
-                      <li><a class="linkedin" href="http://ca.linkedin.com/in/dannytranlx/en">LinkedIn</a></li>
-                      <li><a class="flickr" href="http://www.flickr.com/dannytranlx">Flickr</a></li>
-                  </ul>
-                  <ul class="list-unstyled">
-                    <hr>
-                    <li><a href="/">ABOUT</a></li>
-                    <li><a href="/projects">PROJECTS</a></li>
-                  </ul>
-              </div>
-
-              <div class="col-md-7">
+{% include header.html %}
+                <div class="col-md-7 content">
                   {{ content }}
-              </div>
-          </div>
-      </div>
-      {% include analytics.html %}
-  </body>
-</html>
+                </div>
+{% include footer.html %}
