@@ -89,5 +89,5 @@ Otherwise,
 
 To recap, the first step to get to the ninja road of “Inbox Zero” is to clean up your incoming emails and keep your inbox empty by archiving all read emails and unsubscribing unwanted emails. Then, you should get organizing by setting up labels and sub-labels (you can also go to sub-sub-*-labels if needed).
 
-Do you use Gmail the same way as I do? If not, feel free to tell me your ninja tricks on Twitter [@dannytranlx](https://twitter.com/dannytranlx).
+Do you use Gmail the same way as I do? If not, feel free to tell me your ninja tricks on Twitter @dannytranlx.
 
