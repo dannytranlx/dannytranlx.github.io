@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Danny Tran
+background: default.jpg
 ---
 
 ##Hello!

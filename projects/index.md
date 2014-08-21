@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects · Danny Tran
+background: projects.jpg
 ---
 
 ##Projects

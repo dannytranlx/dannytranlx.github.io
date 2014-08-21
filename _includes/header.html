@@ -11,6 +11,9 @@
       <link href='http://fonts.googleapis.com/css?family=Lato:300|Open+Sans:300,600' rel='stylesheet' type='text/css'>
   </head>
   <body>
-      <div class="container">
-          <div class="row header">
-              {% include sidebar.html %}
+      <div class="hero" style="background-image: url('/img/{{ page.background || background }}');">
+      </div>
+      <div class="row bg">
+        <div class="container">
+            <div class="row side">
+                {% include sidebar.html %}

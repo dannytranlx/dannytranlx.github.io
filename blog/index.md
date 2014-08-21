@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog · Danny Tran
+background: default.jpg
 ---
 
 ##Blog

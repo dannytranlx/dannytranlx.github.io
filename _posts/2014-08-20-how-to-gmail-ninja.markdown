@@ -2,6 +2,7 @@
 layout: posts
 title:  "How to be a Gmail ninja?"
 date:   2014-08-20 21:21:06
+background: posts/inboxfull.jpg
 ---
 
 *Disclaimer : I don’t want to pretend to have the most ninja workflow, but this is how I manage my emails through my semesters in college getting emails from several student societies I was part of.*
