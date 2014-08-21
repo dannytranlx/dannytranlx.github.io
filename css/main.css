@@ -93,3 +93,33 @@ a.googleplus {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+ul.listing {
+  padding: 0px;
+}
+
+ul.listing li {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+ul.listing li span {
+  float: right;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.blog-post, .content {
+  padding-bottom: 35px;
+}
+
+.blog-post h1 {
+  font-weight: 900;
+  margin-bottom: 0px;
+}
+
+.blog-post span {
+  color: #333333;
+  font-size: 14px;
+  text-transform: uppercase;
+}
