@@ -8,6 +8,14 @@
                   <div class="row">
                     <div class="col-md-12">
                       <h3>Projects</h3>
+                      <ul class="projects">
+                        {% for project in site.data.projects | limit:2 %}
+                        <li>
+                          <a href="{{ project.url }}">{{ project.name }}</a>
+                          {{ project.description | truncatewords: 15 | markdownify }}
+                        </li>
+                        {% endfor %}
+                      </ul>
                       <a href="projects">More projects →</a>
                     </div>
                   </div>
