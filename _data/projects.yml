@@ -1,7 +1,3 @@
-- name: Bookies
-  url: https://github.com/dannytranlx/bookies-web
-  description: I've built this web application with [AngularJS](http://angularjs.org/) and [Bootstrap 3](http://getbootstrap.com/) to fetch data from an API. For that project, I have also set up a personal [Ubuntu server](http://dtrn.co/) with Apache to host the web application and the [Symfony backend](https://github.com/fpoirier1/bookies-app).
-
 - name: Bixi dock status scraper
   url: http://bixi-api.herokuapp.com/
   description: I wrote this project with Python and [Flask](http://flask.pocoo.org/) to scrape the [Bixi website](http://montreal.bixi.com) in order to get the dock status with the number of available bikes and docks. This will be used in a [Pebble app](https://developer.getpebble.com/) project I want to do to locate Bixi docks with their status on my Pebble watch.
