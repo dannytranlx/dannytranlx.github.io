@@ -1,5 +1,4 @@
 name: Danny Tran
-markdown: redcarpet
 gems:
   - jekyll-mentions
   - jemoji

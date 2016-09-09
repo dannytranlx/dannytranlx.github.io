@@ -12,4 +12,4 @@ I love coding pixel-perfect web applications and working on various multimedia p
 
 When I actually leave my laptop, I love to drink a beer in front of a hockey game or take [pictures with my camera](http://www.flickr.com/dannytranlx). I also get a lot involved in [several](http://clubapplets.ca/) [student](http://lanets.ca/) [societies](http://dciets.com/) by helping them with their websites or creating promotional materials.
 
-Let's talk! Tweet me @dannytranlx or send me an email [danny@dannytran.ca](mailto:danny@dannytran.ca) :bowtie:
+Let's talk! Tweet me @dannytranlx :bowtie:
