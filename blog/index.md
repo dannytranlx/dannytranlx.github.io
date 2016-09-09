@@ -4,7 +4,7 @@ title: Blog · Danny Tran
 background: default.jpg
 ---
 
-##Blog
+## Blog
 <hr>
 <ul class="listing">
   {% for post in site.posts %}

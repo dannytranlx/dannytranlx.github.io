@@ -4,7 +4,7 @@ title: Projects · Danny Tran
 background: projects.jpg
 ---
 
-##Projects
+## Projects
 
 Here are some projects I worked on :
 

@@ -5,3 +5,4 @@ gems:
 jekyll-mentions:
   base_url: https://twitter.com
 exclude: ['README.md', 'CNAME', 'vendor', 'Gemfile', 'Gemfile.lock']
+markdown: kramdown

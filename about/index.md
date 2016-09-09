@@ -4,7 +4,7 @@ title: About · Danny Tran
 background: default.jpg
 ---
 
-##About Danny
+## About Danny
 
 My name is Danny, I am currently completing my Bachelor of Engineering in Information Technology at [&Eacute;cole de technologie sup&eacute;rieure](http://etsmtl.ca/) in Montr&eacute;al, Canada.
 
