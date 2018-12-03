@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dannytranlx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dannytran.ca
+  * I am dannytranlx (https://keybase.io/dannytranlx) on keybase.
+  * I have a public key ASCuGNk954laMdCNZ0-6sQyGigo-Jsti_7zzz4yTKcUCRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ae18d93de7895a31d08d674fbab10c868a0a3e26cb62ffbcf3cf8c9329c502460a",
+      "host": "keybase.io",
+      "kid": "0120ae18d93de7895a31d08d674fbab10c868a0a3e26cb62ffbcf3cf8c9329c502460a",
+      "uid": "53fb66c2f9678ec1a7edbe69d88f5c19",
+      "username": "dannytranlx"
+    },
+    "merkle_root": {
+      "ctime": 1543853741,
+      "hash": "0128cfc8dc3e97e00d0f3c92055c4155e3bf48f4deeb24f5241a70452f82bb544d09e4248debbcfcc2e71b0dbec918fd84a25e7b7c9bb8d1c99703c3d2c47e00",
+      "hash_meta": "937e910d75151296aff5710ab157cab0850d817ae58434d3033806ccdeaa7ace",
+      "seqno": 4044610
+    },
+    "service": {
+      "entropy": "O6SBGWDMih6zLJQLpOKHrBfw",
+      "hostname": "dannytran.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1543853754,
+  "expire_in": 504576000,
+  "prev": "d743e7931cfcf27bf1f3809aac1f512631d47e0824ea1db3ecba1ce8d9bcaac7",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrhjZPeeJWjHQjWdPurEMhooKPibLYv+888+MkynFAkYKp3BheWxvYWTESpcCF8Qg10Pnkxz88nvx84CarB9RJjHUfggk6h2z7Loc6Nm8qsfEIL40XNz1BAO4BNRXBG1qoWYI18J2n9L3jkirsLLQraCqAgHCo3NpZ8RA+oUdvOYhFUHI76+TKXgOtgwF5z0eTKcYnNmxBJfquifkxy8JhJMmJ9udG7BuP+QPQSC9Xtb2AQ4HXUdtuuQyCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICM44C1ZNZKWQVOb+bTLUiilmQoMZjLZBs70HaeP01Sho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dannytranlx
+
+==================================================================
