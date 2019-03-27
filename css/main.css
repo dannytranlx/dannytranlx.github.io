@@ -39,9 +39,9 @@ a:hover {
 
 .img-circle {
   border: 5px solid #ffffff;
-  height: 200px;
-  width: 200px;
+  max-width: 200px;
   padding-top: 20px;
+  margin: 0 auto;
 }
 
 .social {
@@ -172,4 +172,19 @@ footer {
   padding: 20px;
   position: relative;
   top: 200px;
+}
+
+@media (max-width: 792px) {
+    .col-xs-offset-4 {
+        margin-left: 33.33333333333333%;
+    }
+    .col-xs-offset-3 {
+        margin-left: 25%;
+    }
+    .col-xs-offset-2 {
+        margin-left: 16.666666666666664%;
+    }
+    .col-xs-offset-1 {
+        margin-left: 8.333333333333332%;
+    }
 }
